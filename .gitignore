@@ -1,0 +1,12 @@
+.mvn/wrapper/maven-wrapper.jar
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
