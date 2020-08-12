@@ -1,0 +1,8 @@
+com\validator\SudokuValidator\ValidationOperators.class
+com\validator\SudokuValidator\SudokuFileReader$Board.class
+com\validator\SudokuValidator\SudokuFileReader.class
+com\validator\SudokuValidator\SudokuValidatorApplication.class
+com\validator\SudokuValidator\domain\Sudoku.class
+com\validator\SudokuValidator\exception\InvalidFileException.class
+com\validator\SudokuValidator\exception\NonEqualRowAndColumnException.class
+com\validator\SudokuValidator\util\MathOperator.class

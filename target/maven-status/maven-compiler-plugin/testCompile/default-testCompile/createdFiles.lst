@@ -1,0 +1,3 @@
+com\validator\SudokuValidator\SudokuFileReaderTest.class
+com\validator\SudokuValidator\SudokuValidatorApplicationTests.class
+com\validator\SudokuValidator\ValidatonOperatorsTest.class
