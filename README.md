@@ -1,7 +1,7 @@
 First of all you need to install mvn in your computer <br />
 You can find validate.bat file in the project
 --To run the application in command line you should run: validate.bat *.txt
-If this file in another directory please use the exact path like C:\Users\user\project\*.txt
+If this file in another directory please use the exact path like C:\Users\user\project\*.txt <br />
 It is for windows if you want to test in linux please make sure using linux paths
 
 I tested below cases and added unit tests
